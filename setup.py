@@ -12,10 +12,6 @@ setup(
     description="A Python package to get stem of any inflected Bangla words.",
     long_description=readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Fatick-DevStudio/Bangla-stemmer",
-    author="Mezbaul Islam Protick",
-    author_email="mezbaulislamprotick@gmail.com",
-    license="Apache 2.0",
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: Apache Software License",
